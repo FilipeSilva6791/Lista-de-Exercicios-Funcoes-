@@ -1,5 +1,5 @@
 # Lista-de-Exercicios-Funcoes
-# Lista de exercícios sobre funções - Cadeira de introdução a linguagem C - Fundação Liberato
+## Lista de exercícios sobre funções - Cadeira de introdução a linguagem C - Fundação Liberato
 
 O foco desta lista é a criação de funções.
 As funções devem ser implementadas com os parâmetros especificados nos exercicios.
