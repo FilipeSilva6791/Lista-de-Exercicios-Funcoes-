@@ -51,6 +51,7 @@ por ela.
 
 11. Dados os valores de Vin e Vout do divisor de tensão representado abaixo, calcule a 
 relação R2/R1 necessária para construção deste divisor.
+
 ![image](https://user-images.githubusercontent.com/73619551/214170191-c825f67e-7740-419a-903e-5eaa7f513da6.png)
 
 12. Recebe um valor inteiro. Retorna com 1 se este valor for par, caso contrário retorna com 
